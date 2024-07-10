@@ -1,6 +1,7 @@
 ![logo](https://github.com/imon1999/imon1999/blob/main/Image/White%20and%20Gray%20Minimalist%20Personal%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shamsul Alam Imon</h1>
 <h3 align="center">A continual learner in the realm of latest AI technology</h3>
+<img align="right" alt="coding" width="400"src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imon1999&label=Profile%20views&color=0e75b6&style=flat" alt="imon1999" /> </p>
 
 - 🔭 I’m currently working on **Self-supervised single image denoising technique**
